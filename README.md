@@ -26,7 +26,7 @@ This Android RAT (Remote Access Trojan) is a proof-of-concept application design
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/mithunmadhukuttan/android-rat.git
+   git clone https://github.com/mithunmadhukuttan/ARAT
    ```
 
 2. **Navigate to the Project Directory:**
